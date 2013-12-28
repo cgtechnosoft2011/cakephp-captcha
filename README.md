@@ -1,4 +1,5 @@
-cakephp-captcha
+
+Cakephp Captcha with Ajax Reload Functionality
 ===============
 
 Cakephp Captcha with Ajax Reload Functionality
